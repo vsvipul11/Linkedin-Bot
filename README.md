@@ -1,5 +1,5 @@
 # Linkedin-Bot
-<h3>Linkedin bot built in python can be used to expand your connections while you sit back and sip on your coffee.<h3>
+<h3>Linkedin is an important platform that helps you connect with people and get job offers now connecting to people is an important part and the most time consuming one here comes in the role of linkedin bot . Linkedin bot used to add on new connections while you sit back sipping your coffee.<h3>
 
 
 <h1> Prerequisites </h1>
