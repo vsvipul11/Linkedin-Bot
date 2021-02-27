@@ -12,6 +12,6 @@
 
 <h1>How to use ?</h1>
 <p> - Open parameters.py file and provide your email id, password, and keywords for search criteria.</p>
-<p> - Run `python linkedIn.py`</p>
+<p> - Run `python bot_linkedIn.py`</p>
 
 
