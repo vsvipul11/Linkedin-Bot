@@ -4,7 +4,7 @@
 
 <h1> Prerequisites </h1>
 
-<p>Use the command</p>
+<h4>Use the command - </h4>
 
 <p>pip install selenium</p>
 <p>pip install webdriver-manager</>
